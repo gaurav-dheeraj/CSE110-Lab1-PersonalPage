@@ -29,7 +29,7 @@ class HelloWorld {
 
  and it's safe to say I've come a long way since then.
 
- ## My Technical Skills
+## My Technical Skills
 
 1. Programming Languages 
     - Java
